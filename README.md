@@ -1,6 +1,6 @@
 # Roadmap especializado en backend
 
-### En este repositorio se va a documentar el estudio del rol backend de la guia roadmap.sh, en donde busco especializarme y crecer como desarrollador web desde el lado de la lógica y servidores.
+### En este repositorio se va a documentar el estudio del rol backend de la guia [roadmap.sh](https://roadmap.sh/backend), en donde busco especializarme y crecer como desarrollador web desde el lado de la lógica y servidores.
 
 #### Indice
 
@@ -15,7 +15,7 @@
 9. Escalamiento de Bases de Datos
 10. APIS
 11. Caché
-12. Conocimientos de seguridad Web
+12. Seguridad Web
 13. Testing
 14. CI / CD
 15. Arquitectura de Software y Diseño de Software
